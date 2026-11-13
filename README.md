@@ -50,15 +50,14 @@ Para que todos los enlaces de este `README.md` funcionen automáticamente, se pr
 
 ```text
 devsecops-playbook/
-├── .github/
-│   └── PULL_REQUEST_TEMPLATE.md      # Documento 03
 ├── docs/
 │   ├── 00-base.md
-│   ├── 01-politica-clasificacion-riesgos.md
-│   ├── 02-estandar-arquitectura-segura.md
-│   ├── 04-checklist-revision-agnostico.md
-│   ├── 05-guias-rapidas-lenguajes.md
-│   └── 06-registro-excepciones-riesgo.md
+│   ├── 01_politica_clasificacion_riesgos_triage.md
+│   ├── 02_PULL_REQUEST_TEMPLATE.md
+│   ├── 03_estandar_arquitectura_segura.md
+│   ├── 04_checklist_revision__segura_codigo_agnostico.md
+│   ├── 05_guias_rapidas_por_lenguajes.md
+│   └── 06_registro_excepciones_deuda_tecnica.md
 └── README.md
 ```
 
