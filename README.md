@@ -17,7 +17,7 @@ Los documentos están organizados de mayor a menor nivel de abstracción (desde 
 | Orden | Documento | Nivel | Propósito Principal |
 | :--- | :--- | :--- | :--- |
 | **01** | [Política de Clasificación de Riesgos](./docs/01_politica_clasificacion_riesgos_triage.md) | Estratégico | Categoriza las aplicaciones por criticidad y define los disparadores obligatorios para revisiones manuales. |
-| **02** | [Plantilla Universal de Pull Request](./.github/02_PULL_REQUEST_TEMPLATE.md) | Flujo de Trabajo | Actúa como aduana diaria donde el desarrollador declara el impacto de seguridad de sus cambios. |
+| **02** | [Plantilla Universal de Pull Request](./docs/02_PULL_REQUEST_TEMPLATE.md) | Flujo de Trabajo | Actúa como aduana diaria donde el desarrollador declara el impacto de seguridad de sus cambios. |
 | **03** | [Estándar de Arquitectura Segura](./docs/03-estandar-arquitectura-segura.md) | Diseño | Establece las líneas base obligatorias (autenticación, cifrado, secretos, APIs) antes de escribir código. |
 | **04** | [Checklist de Revisión Agnóstico](./docs/04_checklist_revision_segura_codigo_agnostico.md) | Operativo | Guía de inspección manual enfocada en lógica de negocio y flujos de datos, independiente del lenguaje. |
 | **05** | [Índice de Guías por Lenguaje](./docs/05_guia_rapida_por_lenguaje.md) | Táctico | Directorio de *red flags* y patrones peligrosos específicos por stack (JS, Python, Java, .NET, Go). |
